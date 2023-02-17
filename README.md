@@ -1,5 +1,5 @@
 # Flask_Registration
-# Flask_Registration
+
 
 
 This is basically a registration form  with email verification as well as unique team name.
